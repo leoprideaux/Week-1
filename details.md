@@ -1,7 +1,7 @@
 Please Complete with your details and then sumbit via GitHub Classroom.
-* Full Name:
-* Tutor Group:
-* CID:
+* Full Name: Leo Planck-Prideaux
+* Tutor Group:6
+* CID:01716503
 
 *Did everything install well from the handbook? Any issues?*
 * NodeJS - [ ]
